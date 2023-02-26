@@ -1,0 +1,15 @@
+/Users/uliagladyseva/Desktop/введение в прог семинар 7/dz1/bin/Debug/net6.0/dz1
+/Users/uliagladyseva/Desktop/введение в прог семинар 7/dz1/bin/Debug/net6.0/dz1.deps.json
+/Users/uliagladyseva/Desktop/введение в прог семинар 7/dz1/bin/Debug/net6.0/dz1.runtimeconfig.json
+/Users/uliagladyseva/Desktop/введение в прог семинар 7/dz1/bin/Debug/net6.0/dz1.dll
+/Users/uliagladyseva/Desktop/введение в прог семинар 7/dz1/bin/Debug/net6.0/dz1.pdb
+/Users/uliagladyseva/Desktop/введение в прог семинар 7/dz1/obj/Debug/net6.0/dz1.csproj.AssemblyReference.cache
+/Users/uliagladyseva/Desktop/введение в прог семинар 7/dz1/obj/Debug/net6.0/dz1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uliagladyseva/Desktop/введение в прог семинар 7/dz1/obj/Debug/net6.0/dz1.AssemblyInfoInputs.cache
+/Users/uliagladyseva/Desktop/введение в прог семинар 7/dz1/obj/Debug/net6.0/dz1.AssemblyInfo.cs
+/Users/uliagladyseva/Desktop/введение в прог семинар 7/dz1/obj/Debug/net6.0/dz1.csproj.CoreCompileInputs.cache
+/Users/uliagladyseva/Desktop/введение в прог семинар 7/dz1/obj/Debug/net6.0/dz1.dll
+/Users/uliagladyseva/Desktop/введение в прог семинар 7/dz1/obj/Debug/net6.0/refint/dz1.dll
+/Users/uliagladyseva/Desktop/введение в прог семинар 7/dz1/obj/Debug/net6.0/dz1.pdb
+/Users/uliagladyseva/Desktop/введение в прог семинар 7/dz1/obj/Debug/net6.0/dz1.genruntimeconfig.cache
+/Users/uliagladyseva/Desktop/введение в прог семинар 7/dz1/obj/Debug/net6.0/ref/dz1.dll
